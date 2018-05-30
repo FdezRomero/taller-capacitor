@@ -1,0 +1,6 @@
+{
+  "appId": "es.ionicmadrid.tallercapacitor",
+  "appName": "TallerCapacitor",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
